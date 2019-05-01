@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="welcome">Welcome</string>
+    <string name="uname">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="companyName"><b><i><u>Company</u></i></b></string>
+    <string name="button1">Employees</string>
+    <string name="button2">Customers</string>
+    <string name="button3">Orders</string>
+    <string name="button4">Cart</string>
+    <string name="button5">Parts</string>
+    <string name="button6">Admin</string>
+    <string name="button7">ODetails</string>
+    <string name="logout">Logout</string>
+    <string name="namehint">Customer Name</string>
+    <string name="phonehint">Phone Number</string>
+    <string name="ziphint">Zipcode</string>
+    <string name="emailhint">Email</string>
+    <string name="about">About</string>
+</resources>
